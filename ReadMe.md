@@ -1,9 +1,9 @@
 # 💫 About Me:
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <div style="flex: 1 1 300px; margin-right: 20px;">
-    <img src="./LandingImage-0HswxDEm.png" alt="Alt text" style="width: 100%; height: auto;">
+  <div style="flex: 1; min-width: 300px; margin-right: 20px;">
+    <img src="./LandingImage-0HswxDEm.png" alt="Alt text" style="max-width: 100%; height: auto;">
   </div>
-  <div style="flex: 2 1 300px;">
+  <div style="flex: 2; min-width: 300px;">
     <p>Hi 👋, I'm Ehtisham Ahmed Gondal</p>
     <p>🔭 I’m currently Working on Web/Mobile apps</p>
     <p>🌱 I’m currently learning Game Development.</p>
