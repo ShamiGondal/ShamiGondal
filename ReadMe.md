@@ -6,8 +6,8 @@
   <div style="flex: 2; min-width: 300px;">
     <p>Hi 👋, I'm Ehtisham Ahmed Gondal</p>
     <p>🔭 I’m currently Working on Web/Mobile apps</p>
-    <p>🌱 I’m currently learning Game Development.</p>
-    <p>💬 Ask me about MERN, React Native Expo, Flutter, C/C++, Next.js</p>
+    <p>🌱 I’m currently Working on ML/Data Science projects</p>
+    <p>💬 Ask me about MERN, Next Js, Machine Learning, Data Science, React Native Expo, Flutter, C/C++, Next.js</p>
     <p>📫 How to reach me ehtishamahmedgondal@gmail.com</p>
     <p>📄 Know about my experiences <a href="https://shami-portfolio.netlify.app/">https://shami-portfolio.netlify.app/</a></p>
   </div>
