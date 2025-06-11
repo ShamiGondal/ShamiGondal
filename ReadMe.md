@@ -9,7 +9,7 @@
     <p>🌱 I’m currently Working on ML/Data Science projects</p>
     <p>💬 Ask me about MERN, Next Js, Machine Learning, Data Science, React Native Expo, Flutter, C/C++, Next.js</p>
     <p>📫 How to reach me ehtishamahmedgondal@gmail.com</p>
-    <p>📄 Know about my experiences <a href="https://shami-portfolio.netlify.app/">https://shami-portfolio.netlify.app/</a></p>
+    <p>📄 Know about my experiences <a href="https://shamigondal.online/">shamigondal.online</a></p>
   </div>
 </div>
 
